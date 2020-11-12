@@ -11,6 +11,7 @@
 ### -> As we can see the user interface is pretty simple and easy to understand, also classic touch is given in UI.
 ![2](https://user-images.githubusercontent.com/44981613/98974322-cb0eae80-253a-11eb-8f9b-239edab7e8ff.jpg)
 ![3](https://user-images.githubusercontent.com/44981613/98974330-cc3fdb80-253a-11eb-84b2-7f1127213716.jpg)
+### -> User can choose his city, then all the listed Salons will appear, now the user can select any Salon of his choice.
 ![4](https://user-images.githubusercontent.com/44981613/98974332-ccd87200-253a-11eb-8e25-96ab2a84b5f3.jpg)
 ![5](https://user-images.githubusercontent.com/44981613/98974335-cd710880-253a-11eb-81e5-b25c411a14fe.jpg)
 ![6](https://user-images.githubusercontent.com/44981613/98974435-e974aa00-253a-11eb-9aa6-952e83123de5.jpg)
