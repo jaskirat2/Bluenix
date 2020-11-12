@@ -5,9 +5,10 @@
 ### 🔰 This android application can run on any device having API between 21 and 30.
 ### 🔰 Users can also do online shopping using this application.
 ### 🔰 UI is simple and responsive.
-### -> When we launch this application, first of all a cool splashscreen with animations appears.
 ![0](https://user-images.githubusercontent.com/44981613/98974357-d366e980-253a-11eb-8387-06054b3d72c4.jpg)
+### -> When we launch this application, first of all a cool splashscreen with animations appears.
 ![1](https://user-images.githubusercontent.com/44981613/98974317-c944eb00-253a-11eb-8c90-86aea8ee373a.jpg)
+### -> As we can see the user interface is pretty simple and easy to understand, also classic touch is given in UI.
 ![2](https://user-images.githubusercontent.com/44981613/98974322-cb0eae80-253a-11eb-8f9b-239edab7e8ff.jpg)
 ![3](https://user-images.githubusercontent.com/44981613/98974330-cc3fdb80-253a-11eb-84b2-7f1127213716.jpg)
 ![4](https://user-images.githubusercontent.com/44981613/98974332-ccd87200-253a-11eb-8e25-96ab2a84b5f3.jpg)
