@@ -16,6 +16,7 @@
 ![5](https://user-images.githubusercontent.com/44981613/98974335-cd710880-253a-11eb-81e5-b25c411a14fe.jpg)
 ### -> Now, user can select hair stylist of his choice and then user can select any available time slot
 ![6](https://user-images.githubusercontent.com/44981613/98974435-e974aa00-253a-11eb-9aa6-952e83123de5.jpg)
+### -> 4th step will display the details of the appointment, user can now verify timing, date and place.
 ![7](https://user-images.githubusercontent.com/44981613/98974443-eb3e6d80-253a-11eb-9d42-a056a21991f9.jpg)
 ![8](https://user-images.githubusercontent.com/44981613/98974343-cf3acc00-253a-11eb-911d-a8d869411606.jpg)
 ![9](https://user-images.githubusercontent.com/44981613/98974344-cfd36280-253a-11eb-8f6f-8b68585a3692.jpg)
