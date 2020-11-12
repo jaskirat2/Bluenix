@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/e"
+    tools:context=".SplashscreenActivity">
+
+    <ImageView
+        android:id="@+id/abc"
+        android:layout_width="371dp"
+        android:layout_height="191dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="172dp"
+        android:layout_marginEnd="10dp"
+        android:src="@drawable/l1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/abc2"
+        android:layout_width="86dp"
+        android:layout_height="105dp"
+        android:layout_marginTop="152dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.47"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/l3" />
+
+    <ImageView
+        android:id="@+id/abc3"
+        android:layout_width="184dp"
+        android:layout_height="55dp"
+        android:layout_marginStart="65dp"
+        android:layout_marginTop="271dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/grey" />
+
+    <ImageView
+        android:id="@+id/abc4"
+        android:layout_width="251dp"
+        android:layout_height="38dp"
+        android:layout_marginStart="124dp"
+        android:layout_marginTop="272dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/blue" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

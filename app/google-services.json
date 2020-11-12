@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "464866029250",
+    "firebase_url": "https://bluenix-9299b.firebaseio.com",
+    "project_id": "bluenix-9299b",
+    "storage_bucket": "bluenix-9299b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464866029250:android:741322c4cc32ef5012555b",
+        "android_client_info": {
+          "package_name": "in.techaddicts.bluenix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464866029250-oqee6gdpc0gh09ts6fm085v0gef9qsta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3gHh8uraY4GQV1fBt0Rjf_2m0he9U7kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464866029250-oqee6gdpc0gh09ts6fm085v0gef9qsta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
