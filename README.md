@@ -22,5 +22,6 @@
 ### -> One of the best feature in this application is that when user confirms his booking, then Calender of smartphone is automatically synced with the appointment.
 ![9](https://user-images.githubusercontent.com/44981613/98974344-cfd36280-253a-11eb-8f6f-8b68585a3692.jpg)
 ![10](https://user-images.githubusercontent.com/44981613/98974347-d1048f80-253a-11eb-8bd4-6731a9ea9809.jpg)
+### -> Users can also do online shopping using this application.
 ![11](https://user-images.githubusercontent.com/44981613/98974349-d19d2600-253a-11eb-90ff-4c164ea0fcd0.jpg)
 ![12](https://user-images.githubusercontent.com/44981613/98974353-d2ce5300-253a-11eb-97eb-9c901bc3f834.jpg)
