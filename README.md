@@ -19,7 +19,7 @@
 ### -> 4th step will display the details of the appointment, user can now verify timing, date and place.
 ![7](https://user-images.githubusercontent.com/44981613/98974443-eb3e6d80-253a-11eb-9d42-a056a21991f9.jpg)
 ![8](https://user-images.githubusercontent.com/44981613/98974343-cf3acc00-253a-11eb-911d-a8d869411606.jpg)
-### -> One of the best feature in this application is that when user confirms his booking, then Calender of smartphone is automatically synced with the appointment.
+### -> One of the best feature in this application is that when user confirms his booking, then Calendar of smartphone is automatically synced with the appointment.
 ![9](https://user-images.githubusercontent.com/44981613/98974344-cfd36280-253a-11eb-8f6f-8b68585a3692.jpg)
 ![10](https://user-images.githubusercontent.com/44981613/98974347-d1048f80-253a-11eb-8bd4-6731a9ea9809.jpg)
 ### -> Users can also do online shopping using this application.
